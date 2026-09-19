@@ -10,8 +10,8 @@ import random
 
 init(autoreset=True)
 
-CITY = "Huntley"
-API_KEY = "51586e7fa3ccaa82838a0fbed00ccb6e"
+CITY = "???"
+API_KEY = "???"
 
 skip = False
 
